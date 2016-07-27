@@ -1,0 +1,22 @@
+{
+  "name": "tetsuyatmk.heroku",
+  "version": "0.0.0",
+  "description": "tetsuyatmk.heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "6"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tetsuyatmk/tetsuyatmk.heroku"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "tetsuyatmk",
+  "license": "MIT"
+}
